@@ -1,0 +1,60 @@
+BLOCCO	AREA	ENTE	FONTE	URL	PARSER
+B01_SCUOLA	SCUOLA E ISTRUZIONE	MIM / PN Scuola	PN Scuola - Avvisi	https://pn20212027.istruzione.it/avvisi/	TABELLA
+B01_SCUOLA	SCUOLA E ISTRUZIONE	MIM / PN Scuola	PN Scuola - Calendario	https://pn20212027.istruzione.it/calendario/	TABELLA
+B03_CAMPANIA	SCUOLA E ISTRUZIONE	Regione Campania	PR Campania FSE+ - Istruzione e formazione	https://fse.regione.campania.it/category/avvisi/istruzione-e-formazione/	LISTA
+B03_CAMPANIA	LAVORO E FORMAZIONE	Regione Campania	PR Campania FSE+ - Tutti gli avvisi	https://fse.regione.campania.it/avvisi/	LISTA
+B03_CAMPANIA	TRASVERSALE	Regione Campania	BURC Campania - Ultimi bollettini	https://burc.regione.campania.it/eBurcWeb/publicContent/ultimiBurc/lista.iface	SPECIALE_BURC
+B03_CAMPANIA	SCUOLA E ISTRUZIONE	USR Campania	USR Campania	https://www.mim.gov.it/web/miur-usr-campania	LISTA
+B02_MIM_MUR	SCUOLA E ISTRUZIONE	MIM	MIM - Normativa	https://www.mim.gov.it/web/guest/normativa	LISTA
+B02_MIM_MUR	FORMAZIONE SUPERIORE	MUR	MUR - Atti e normativa	https://www.mur.gov.it/it/atti-e-normativa	LISTA
+B03_CAMPANIA	LAVORO E FORMAZIONE	Regione Campania	Lavoro e formazione professionale	https://www.regione.campania.it/aree-tematiche/lavoro-formazione-professionale	LISTA
+B03_CAMPANIA	LAVORO E FORMAZIONE	Regione Campania	Avvisi e bandi Lavoro Istruzione Formazione	https://lavoro.regione.campania.it/index.php/home/servizi-on-line1/servizi-on-line/avvisi-e-bandi	LISTA
+B03_CAMPANIA	FORMAZIONE PROFESSIONALE	Regione Campania	Formazione professionale	https://lavoro.regione.campania.it/index.php/per-i-datori-di-lavoro/lavoro/finanziamenti-ed-incentivi/incentivi-alle-assunzioni/incentivi-nazionali/220-ifts	LISTA
+B04_LAVORO	LAVORO E COMPETENZE	Ministero del Lavoro	Programma GOL - Misure nazionali	https://lavoro.gov.it/temi-e-priorita/occupazione/focus/programma-gol/pagine/misure-nazionali	PAGINA
+B04_LAVORO	LAVORO E COMPETENZE	Ministero del Lavoro	Fondo Nuove Competenze - Materiali e novità	https://lavoro.gov.it/pn-giovani-donne-lavoro/operazioni-di-importanza-strategica/fondo-nuove-competenze/materiali-utili	PAGINA
+B04_LAVORO	FORMAZIONE CONTINUA	Ministero del Lavoro	Fondi alle imprese per la formazione continua	https://lavoro.gov.it/temi-e-priorita/orientamento-e-formazione/focus/pagine/fondi-alle-imprese-la-formazione-continua	PAGINA
+B04_LAVORO	FORMAZIONE CONTINUA	Ministero del Lavoro	Normativa orientamento e formazione	https://www.lavoro.gov.it/temi-e-priorita/orientamento-e-formazione/Pagine/Normativa	LISTA
+B04_LAVORO	FORMAZIONE CONTINUA	Ministero del Lavoro	Formazione continua e fondi interprofessionali	https://www.lavoro.gov.it/taxonomy/term/86	LISTA
+B05_IMPRESE	IMPRESE	MIMIT	MIMIT - Incentivi e aggiornamenti	https://www.mimit.gov.it/it/incentivi-aggiornamenti/548-Incentivi%20alle%20imprese?start=0	LISTA
+B05_IMPRESE	COMPETENZE E DIGITALE	MIMIT	Sviluppo competenze	https://www.mimit.gov.it/it/incentivi/sviluppo-competenze	PAGINA
+B05_IMPRESE	COMPETENZE E DIGITALE	Invitalia	Sviluppo competenze specialistiche delle PMI	https://www.invitalia.it/incentivi-e-strumenti/sviluppo-competenze-specialistiche-delle-pmi	PAGINA
+B05_DIGITALE	DIGITALE	Dipartimento Trasformazione Digitale	Avvisi pubblici	https://innovazione.gov.it/notizie/avvisi-pubblici/	LISTA
+B05_DIGITALE	DIGITALE	Fondo per la Repubblica Digitale	Bandi	https://www.fondorepubblicadigitale.it/pagina-bandi/	LISTA
+B06_SOCIALE	INCLUSIONE	Ministero Interno / FAMI	FAMI - Avvisi pubblici	https://fami.dlci.interno.gov.it/accesso-al-fondo/avvisi-pubblici	LISTA
+B06_SOCIALE	INCLUSIONE	Ministero Interno / FAMI	FAMI - Calendario programmatico	https://fami.dlci.interno.gov.it/accesso-al-fondo/calendario-programmatico-degli-avvisi	PAGINA
+B06_SOCIALE	FAMIGLIA	Dipartimento per le Politiche della Famiglia	Finanziamenti, avvisi e bandi	https://famiglia.governo.it/it/politiche-e-attivita/finanziamenti-avvisi-e-bandi/	LISTA
+B06_SOCIALE	DISABILITA	Dipartimento per le politiche in favore delle persone con disabilità	Avvisi e bandi	https://www.disabilita.governo.it/it/avvisi-e-bandi/	LISTA
+B07_PA	PUBBLICA AMMINISTRAZIONE	INPS	Studio e formazione - Valore PA	https://www.inps.it/it/it/sostegni-sussidi-indennita/studio-e-formazione.html	LISTA
+B08_SALUTE	SALUTE E SANITA	Ministero della Salute	PNRR Salute - Bandi, avvisi e formazione	https://www.pnrr.salute.gov.it/	LISTA
+B09_DIFESA	DIFESA E SICUREZZA	Ministero della Difesa	Bandi di gara e contratti	https://www.difesa.it/amministrazione-trasparente/smd/bandi/default/5989.html	LISTA
+B10_SETTORI	CULTURA	Ministero della Cultura	MiC Trasparenza - Avvisi e bandi	https://trasparenza.cultura.gov.it/pagina957_avvisi-e-bandi.html	TABELLA
+B10_SETTORI	AGRICOLTURA	MASAF	Fondi e finanziamenti	https://www.masaf.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/281	LISTA
+B11_SPORT	SPORT	Dipartimento per lo Sport	Bandi e avvisi	https://www.sport.governo.it/it/bandi-e-avvisi/	LISTA
+B10_SETTORI	AMBIENTE E GREEN	MASE	Bandi e avvisi	https://www.mase.gov.it/archivio-bandi	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	FAPI	Canali di finanziamento	https://www.fondopmi.com/avvisi/canali-finanziamento/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	Fondo Banche Assicurazioni	Avvisi aperti	https://fondofba.it/avvisi-aperti/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	FonARCom	Avviso Generalista	https://www.fonarcom.it/strumenti/avviso-generale/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	FonARCom	Avvisi Tematici	https://www.fonarcom.it/strumenti/avvisi-tematici/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	FonARCom	Avvisi Voucher	https://www.fonarcom.it/strumenti/avvisi-voucher/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	Fon.Coop	Fondo di Rotazione - Avvisi	https://www.foncoop.coop/fondo-di-rotazione/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	Fon.Coop	Avvisi Speciali	https://www.foncoop.coop/avvisi-speciali/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	FondArtigianato	Inviti	https://www.fondartigianato.it/inviti	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	Fond.E.R.	Avvisi e graduatorie	https://www.fonder.it/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	Fondir	Avvisi e opportunità	https://www.fondir.it/	LISTA
+B12_FONDI_A	FORMAZIONE CONTINUA	Fondirigenti	Avvisi	https://www.fondirigenti.it/avvisi/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	FondItalia	Avvisi, aggiornamenti e graduatorie	https://www.fonditalia.org/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Fondo Conoscenza	Avvisi, news e graduatorie	https://www.fondoconoscenza.it/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Fondo Innova	Avvisi attivi	https://www.fondoinnova.it/avvisi-attivi/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Fondolavoro	Avvisi attivi	https://fondolavoro.it/avvisi-attivi/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Fondoprofessioni	Avvisi aperti	https://www.fondoprofessioni.it/avvisi-per-la-formazione/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Fondoprofessioni	Notizie, graduatorie e aggiornamenti	https://www.fondoprofessioni.it/notizie/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Fonservizi	Avvisi	https://www.fonservizi.it/avvisi	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Fon.Ter	Avvisi e graduatorie	https://www.fonter.it/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	For.Agri	Avvisi	https://www.foragri.com/avvisi/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	Formazienda	Programmazione, proroghe e graduatorie	https://www.formazienda.com/archivio-aggiornamenti/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	For.Te.	Avvisi attivi	https://www.fondoforte.it/elenco-avvisi/	LISTA
+B13_FONDI_B	FORMAZIONE CONTINUA	For.Te.	News, proroghe e piani finanziati	https://www.fondoforte.it/ultime-news/	LISTA
+B14_FORMATEMP	FORMAZIONE CONTINUA	Forma.Temp	Notizie, avvisi e aggiornamenti	https://www.formatemp.it/notizie/	LISTA
+B01_SCUOLA	SCUOLA E ISTRUZIONE	SIAE / Per Chi Crea	Per Chi Crea - Formazione nelle scuole	https://www.perchicrea.it/bando/formazione-e-promozione-culturale-nelle-scuole/	PAGINA
+B10_SETTORI	CULTURA	SIAE / Per Chi Crea	Per Chi Crea - Bandi	https://www.perchicrea.it/bandi/	LISTA
+B10_SETTORI	CULTURA	SIAE / Per Chi Crea	Per Chi Crea - News	https://www.perchicrea.it/news/	LISTA
